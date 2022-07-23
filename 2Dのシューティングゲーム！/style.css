@@ -1,0 +1,9 @@
+canvas { background: #5d5d5d; display: block; margin:auto;}
+body{
+    text-align: center;
+}
+#Blue{
+    font-size: 1.5em;
+    background-color: yellow;
+    color: rgb(255, 0, 0);
+}
