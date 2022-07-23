@@ -1,0 +1,2 @@
+# Shoothing-Game
+あめりかごがわかりません。
